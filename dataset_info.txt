@@ -1,0 +1,7 @@
+Dataset Name: PlantVillage
+Total Images: 3405 (after augmentation)
+Classes: 5 (disease categories)
+Split: 80% training, 20% validation
+Annotation Format: YOLO (.txt)
+Source: Publicly available PlantVillage dataset
+Augmentations: Rotation, flip, brightness adjustment
