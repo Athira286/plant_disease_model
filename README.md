@@ -39,7 +39,7 @@ The model identifies diseased regions directly within the image, providing bound
 - **Python**
 - **Ultralytics YOLOv8**
 - **PyTorch**
-- **OpenCV**
+- **Google Colab**
 - **NumPy**
 - **Matplotlib**
 
